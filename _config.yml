@@ -117,4 +117,4 @@ tag_archive:
 comments:
   provider: "disqus"
   disqus:
-    shortname: what-do-you-think-1
+    shortname: "what-do-you-think-1"

@@ -7,6 +7,7 @@ tags:
   - Child poverty
   - Children wellbeing
   - Poverty
+comments: true
 ---
 
 In 2018/19 the UK had 4.2 million children living in poverty. That is 30% of children, thus in a hypothetical class of 30 children 9 of them would be living in poverty. Unfortunately, this number is only predicted to increase in the next years. Moreover, ethnic minorities and black children are more likely to live in poverty compared to children of white British families. It needs to be taken into consideration that 72% of the children living in poverty have a parent that works (Child poverty facts and figures, 2020). This short essay aims to provide clarity and prospective on what the implication of poverty are and their effects on children. 
