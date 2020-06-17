@@ -27,12 +27,12 @@ In conclusion children that are living in unfavourable condition are, as a resul
 
 References:
 
-Cedeño, L.F., Martinez-Arias, R., & Bueno, J.A. (2016) Implications of Socioeconomic Status on Academic Competence:  A Perspective for Teachers. International Education Studies 9 (4), 257-268. http://dx.doi.org/10.5539/ies.v9n4p257
+Cedeño, L.F., Martinez-Arias, R., & Bueno, J.A. (2016) Implications of Socioeconomic Status on Academic Competence:  A Perspective for Teachers. International Education Studies 9 (4), 257-268. [Doi](http://dx.doi.org/10.5539/ies.v9n4p257)
 
-CPAG (2020) Child Poverty Facts And Figures. [online] Available at: https://cpag.org.uk/child-poverty/child-poverty-facts-and-figures  [Accessed 14 June 2020].
+CPAG (2020) Child Poverty Facts And Figures. [online] Available at:[website] (https://cpag.org.uk/child-poverty/child-poverty-facts-and-figures)  [Accessed 14 June 2020].
 
-Maguire-Jack, K., & Font, S.A., (2017) Intersections of individual and neighbourhood disadvantage: Implications for child maltreatment. Children and Youth Services Review 72, 44-51. [link](https://doi.org/10.1016/j.childyouth.2016.10.015)
+Maguire-Jack, K., & Font, S.A., (2017) Intersections of individual and neighbourhood disadvantage: Implications for child maltreatment. Children and Youth Services Review 72, 44-51. [DOI](https://doi.org/10.1016/j.childyouth.2016.10.015)
 
-Sharkins, K.A., Leger, S.E. & Ernest, J.M. (2017). Examining Effects of Poverty, Maternal Depression, and Children’s Self-Regulation Abilities on the Development of Language and Cognition in Early Childhood: An Early Head Start Perspective. Early Childhood Educ J 45, 493–498. https://doi.org/10.1007/s10643-016-0787-9
+Sharkins, K.A., Leger, S.E. & Ernest, J.M. (2017). Examining Effects of Poverty, Maternal Depression, and Children’s Self-Regulation Abilities on the Development of Language and Cognition in Early Childhood: An Early Head Start Perspective. Early Childhood Educ J 45, 493–498. [Doi](https://doi.org/10.1007/s10643-016-0787-9)
 
-Wickham S, Anwar E, Barr B, Law, C. & Taylor-Robinson, D. (2016). Poverty and child health in the UK: using evidence for action. Arch Dis Child 101, 759–766. 10.1136/archdischild-2014-306746
+Wickham S, Anwar E, Barr B, Law, C. & Taylor-Robinson, D. (2016). Poverty and child health in the UK: using evidence for action. Arch Dis Child 101. [Doi](759–766. 10.1136/archdischild-2014-306746)
