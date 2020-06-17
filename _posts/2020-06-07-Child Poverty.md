@@ -29,7 +29,7 @@ References:
 
 Cedeño, L.F., Martinez-Arias, R., & Bueno, J.A. (2016) Implications of Socioeconomic Status on Academic Competence:  A Perspective for Teachers. International Education Studies 9 (4), 257-268. [Doi](http://dx.doi.org/10.5539/ies.v9n4p257)
 
-CPAG (2020) Child Poverty Facts And Figures. [online] Available at:[website] (https://cpag.org.uk/child-poverty/child-poverty-facts-and-figures)  [Accessed 14 June 2020].
+CPAG (2020) Child Poverty Facts And Figures. [online] Available at:[website](https://cpag.org.uk/child-poverty/child-poverty-facts-and-figures)  [Accessed 14 June 2020].
 
 Maguire-Jack, K., & Font, S.A., (2017) Intersections of individual and neighbourhood disadvantage: Implications for child maltreatment. Children and Youth Services Review 72, 44-51. [DOI](https://doi.org/10.1016/j.childyouth.2016.10.015)
 
